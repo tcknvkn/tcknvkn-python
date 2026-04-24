@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tcknvkn"
-version = "1.0.2"
-description = "Python iÃ§in TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doÄŸrulama kÃ¼tÃ¼phanesi."
+version = "1.0.3"
+description = "Python için TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama kütüphanesi."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
@@ -16,16 +16,16 @@ keywords = [
   "python",
   "tckn",
   "vkn",
-  "tc Ã¼ret",
+  "tc üret",
   "tc uret",
-  "tc no Ã¼ret",
+  "tc no üret",
   "tc no uret",
-  "tc oluÅŸtur",
-  "vkn Ã¼ret",
-  "vergi no Ã¼ret",
-  "vergi no oluÅŸturucu",
-  "vkn algoritmasÄ±",
-  "vkn doÄŸrulama algoritmasÄ±"
+  "tc oluştur",
+  "vkn üret",
+  "vergi no üret",
+  "vergi no oluşturucu",
+  "vkn algoritması",
+  "vkn doğrulama algoritması"
 ]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
